@@ -1,0 +1,6 @@
+1) Create a makefile to compile your code.
+2) Write the make command in the cmd.sh file to run the Makefile.
+3) Add a zip file containing your code to the 'zipfiles' folder. Both Makefile and cmd.sh should be there inside the zip file.
+4) Put the input test cases (maximum 2) in the testcases/P1 folder. The filenames should be input00.txt, input01.txt.(You may use the sample test cases)
+5) Put the corresponding output test cases in the expected_outputs/P1 folder. The filenames should be output00.txt, output01.txt.
+6) Use `bash script.sh` to run compile and run your code.

@@ -1,0 +1,1 @@
+python CodeBook.py < inp.txt

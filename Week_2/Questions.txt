@@ -1,0 +1,3 @@
+P1 -- Message Encryption - DONE
+P8 -- Twin Primes - 1 Unknown TC Fail
+P9 -- Finding Pattern in the String - DONE

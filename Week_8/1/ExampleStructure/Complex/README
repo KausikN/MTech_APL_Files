@@ -1,0 +1,5 @@
+#To compile do the following to create .o files -- this is useful for doing a Makefile.
+
+g++ -g -c src/ComplexOprPoly -o obj/ComplexOprPoly.o
+g++ -g -c src/ComplexMain -o obj/ComplexMain.o
+g++ obj/ComplexOprPoly.o obj/ComplexMain.o -o bin/ComplexMain

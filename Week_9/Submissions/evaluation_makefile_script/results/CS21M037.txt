@@ -1,0 +1,3 @@
+P1_inp0.txt : PASS : 0.5
+Marks for CS21M037: .50
+***

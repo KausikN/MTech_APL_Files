@@ -1,0 +1,23 @@
+Students that have completed the assignment last week will do the following:
+1)
+a) Make separate .h files for class definition
+
+b) Make .C files for class implementation
+
+c) Have the Application that uses the ADT in a different file
+
+d) Submit your assignment on Moodle.
+
+
+Additionally:
+2) 
+Write a Sort function to sort the list l inplace
+void Sort ( List &l)
+Assume that the List consists of elements of ElementType (user defined).
+You must define functions:
+int LessThan (ElementType x, ElementType y);
+int EqualTo (ElementType x, ElementType y);
+which will be used by the Sort function.
+
+Do not use additional arrays or additional Lists.  The sorting must be done inplace.  Any O(n^2) sorting algorithm is fine.
+Again .h and .C files must be in separate files -- submit on Moodle.

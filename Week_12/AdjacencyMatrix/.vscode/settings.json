@@ -1,0 +1,11 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "CodeBook.C": "cpp",
+        "AdjacencyMatrix.C": "cpp",
+        "AdjacencyMatrixMain.C": "cpp",
+        "ElementType.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

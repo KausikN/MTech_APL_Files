@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "Template.C": "cpp",
+        "BigIntegerAdd.C": "cpp",
+        "ComplexClassFriend.C": "cpp",
+        "ComplexOprPoly.C": "cpp",
+        "ComplexOprPolyThis.C": "cpp",
+        "OldFile.C": "cpp",
+        "BigIntAdd.C": "cpp",
+        "BigIntAddMain.C": "cpp",
+        "ElementType.C": "cpp",
+        "ListADT.C": "cpp",
+        "BigIntAdd_Combined.C": "cpp",
+        "Original.C": "cpp",
+        "CodeBook.C": "cpp",
+        "CodeBook_WithoutSort.C": "cpp"
+    }
+}
