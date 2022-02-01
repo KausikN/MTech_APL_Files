@@ -1,4 +1,0 @@
-P1_inp0.txt : FAIL : 0
-P1_inp1.txt : FAIL : 0
-Marks for CS18D014: 0
-***

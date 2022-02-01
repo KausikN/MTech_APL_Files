@@ -1,4 +1,0 @@
-This book provides an abundance of sample code, most of it in the form of complete programs. Like the previous editions, this book practices generic C++ so that it is not 
-tied to any particular kind of computer, operating system, or compiler.Thus, the examples were tested on a Windows 7 system,a Macintosh OS X system,and a Linux system.
-Those programs using C++11 features require compilers supporting those features, but the remaining programs should work with any C++99/03-compliant system.
-The sample code for the "complete" programs described in this book is available on this book's website. See the registration link given on the back cover for more information.

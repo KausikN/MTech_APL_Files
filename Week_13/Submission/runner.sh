@@ -1,1 +1,0 @@
-python CS21M037/main.py < inp.txt

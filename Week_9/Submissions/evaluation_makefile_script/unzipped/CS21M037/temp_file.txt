@@ -1,1 +1,0 @@
-../../testcases/P1/input00.txt ../../actual_outputs/CS21M037/sys_out/P1_output00.txt
